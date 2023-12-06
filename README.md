@@ -1,7 +1,7 @@
 # CompTIA-NetPlus-Labs
 
 <h1>CompTIA Network+ Labs</h1>
-Creating an Azure resource group and adding virtual machines connected together through a virtual network. <br />
+
 
 
 <h2>Configuring a SOHO Router</h2>
