@@ -13,7 +13,7 @@
 In this lab, SSH was used to connect to an OpenWRT router that has a web interface to configure router settings<br />
 and went through the different options, configurations, and diagnostics that can be performed on this interface.
 
-- <h2>Capturing Network Traffic</h2>
+<h2>Capturing Network Traffic</h2>
 
 - ### [Capturing Network Traffic](https://youtu.be/AgQO20GmsvM?si=esR2TZBfZu1JQru9)
 
