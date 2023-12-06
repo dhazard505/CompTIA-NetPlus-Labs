@@ -10,8 +10,8 @@ Creating an Azure resource group and adding virtual machines connected together 
 
 <h2>Lab Summary</h2>
 
-- In this lab, I used SSH to connect to an OpenWRT router that has a web interface to configure router settings
-- and went through the different options, configurations, and diagnostics that can be performed on this interface.
+- In this lab, I used SSH to connect to an OpenWRT router that has a web interface to configure router settings<br />
+  and went through the different options, configurations, and diagnostics that can be performed on this interface.
 
 - <h2>Capturing Network Traffic</h2>
 
