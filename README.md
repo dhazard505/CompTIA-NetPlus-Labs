@@ -1,5 +1,3 @@
-# CompTIA-NetPlus-Labs
-
 <h1>CompTIA Network+ Labs</h1>
 
 
