@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://citinewsroom.com/wp-content/uploads/2020/09/cvit-security.jpg" alt="Traffic Examination"/>
+<img src="https://www.pngfind.com/pngs/m/36-364985_network-comptia-network-logo-hd-png-download.png" alt="Traffic Examination"/>
 </p>
 
 <h1>CompTIA Network+ Labs</h1>
