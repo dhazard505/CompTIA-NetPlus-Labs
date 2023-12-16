@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://citinewsroom.com/wp-content/uploads/2020/09/cvit-security.jpg" alt="Traffic Examination"/>
+</p>
+
 <h1>CompTIA Network+ Labs</h1>
 
 
