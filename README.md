@@ -22,4 +22,4 @@ and went through the different options, configurations, and diagnostics that can
 <h2>Lab Summary</h2>
 
 In the Capturing Network traffic lab, tcpdump, nmap, and ping were used for grabbing different types of network traffic and redirecting those captures into a file for future interpretation.<br />
-Then the program Wireshark was used for examining those captures an "easier to read" format.
+Then the program Wireshark was used for examining those captures in an "easier to read" format.
